@@ -1,4 +1,4 @@
-#Arnaud Dakouare 18A862FS
+#Arnaud Daoukare 18A862FS
 class Client:        
     def __init__(self, nom, prenom, init_solde=0):
         """Déclaration des attributs"""
